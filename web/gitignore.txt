@@ -1,0 +1,5 @@
+.venv
+venv
+package-lock.json
+node_modules
+src/__pycache__
